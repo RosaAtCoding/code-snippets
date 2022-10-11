@@ -1,5 +1,5 @@
 (function executeRule(current, previous /*null when async*/ ) {
-    //Script to automatically assgin a specific role on creation or update of users
+    //Script to automatically assign a specific role on creation or update of users
 
     //Sys_id value of the selected role which is to be granted for the user (in this example it is the 'knowledge' role)
     var ROLE_ID = '1f26da36c0a8016b000c7f06a1ce7e14';
